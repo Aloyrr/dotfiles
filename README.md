@@ -20,6 +20,8 @@ HOW TO:
 
 1. open `~/.config/starship.toml` with your prefered editor 
 2. Paste my toml file in 
+3. Save and reset terminal 
+4. if using `zsh` execute this command to restart the terminal `exec zsh` 
 
 I did this process with neovim:
 

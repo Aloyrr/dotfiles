@@ -47,7 +47,7 @@ What it looks like:
 
 ![image](https://user-images.githubusercontent.com/122121292/235579819-899c0445-5dbe-4dc7-a78f-02b091e160fa.png)
 
-Modules included:
+Modules used:
  
 1.[docker_context]
 2. [git_branch]

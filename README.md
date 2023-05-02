@@ -26,3 +26,10 @@ I did this process with neovim:
 If you mess up during this process 
 
 Use `:q!` to exit without saving 
+
+
+![image](https://user-images.githubusercontent.com/122121292/235579661-8306519c-38d0-4dd0-88a7-39ce905d1577.png)
+
+
+![image](https://user-images.githubusercontent.com/122121292/235579715-ac154946-e48b-4b9d-b831-2f83cb3717f3.png)
+
